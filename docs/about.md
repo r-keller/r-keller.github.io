@@ -1,6 +1,6 @@
 layout: page
 title: "RKeller World"
-permaklink: /about
+permaklink: /about/
 
 # Hello World 
 
