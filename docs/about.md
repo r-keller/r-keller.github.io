@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "RKeller World"
+title: "About Me"
 permaklink: /about/
 ---
 
-# Hello World 
+# Hello World!
 
 I am currently seeking a job (!) and meanwhile studying machine learning and programming to develop projects on video game data: historic e-sport championship data and characteristics of strategies for battle-royale games. 
 
