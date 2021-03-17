@@ -2,7 +2,7 @@
 layout: post
 title:  "Some Historic Esports Data"
 date:   2021-03-17
-categories: jekyll update
+categories: blog
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
