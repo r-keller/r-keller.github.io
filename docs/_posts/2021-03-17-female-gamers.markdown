@@ -10,7 +10,7 @@ categories: blog
 # Esports Gaming Data
 
 ## Intro
-Esports, or "competitive tournaments of video games, especially among professional gamers," [officially entered](https://www.pcgamer.com/esports-is-now-officially-in-the-dictionary/) the lexicon on Dictionary.com in 2015. Video game competitions have been going on for a while though! In this notebook, we'll track the evolution of the esports world from data on (https://www.esportsearnings.com). 
+Esports, or "competitive tournaments of video games, especially among professional gamers," [officially entered](https://www.pcgamer.com/esports-is-now-officially-in-the-dictionary/) the lexicon on Dictionary.com in 2015. Video game competitions have been going on for a while though! In this notebook, we'll track the evolution of the esports world from data on [https://www.esportsearnings.com](https://www.esportsearnings.com). 
 
 For more esports info, check out:
 * [a YouTube documentary](https://www.youtube.com/watch?v=6tgWH-qXpv8) of Super Smash Brawl competitions (remember those days? before Netflix!)
