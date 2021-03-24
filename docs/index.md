@@ -5,7 +5,6 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-# tl;dr
 
 Applied Math PhD seeking a job in technology. 
 
