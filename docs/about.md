@@ -6,7 +6,7 @@ permaklink: /about/
 
 # Hello World!
 
-I am currently seeking a job (!) and meanwhile studying machine learning and programming to develop projects on video game data: historic e-sport championship data and characteristics of strategies for battle-royale games. 
+I am currently seeking a job (!) and meanwhile hoping to develop sme data projects on video game: historic e-sport championship data and characteristics of players in battle-royale games. 
 
 I earned my PhD from Columbia University in the City of New York, where I developed an analytical framework with Professor Qiang Du on using a classical numerical technique of linear multistep methods (LMMs) for the data-driven discovery of dynamics and a universal machine learning problem. I'll go into those briefly.
 
