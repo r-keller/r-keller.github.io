@@ -17,7 +17,7 @@ Somewhat like a complex, multifacted capture-the-flag, *DotA 2* pits two teams a
 
 ## OpenDota2
 
-Awesomely, players of *Dota 2* are pretty serious about their gaming, and enough so that an open dataset of *Dota 2* match, player, and hero data is available online at (https://www.opendota.com). 
+Awesomely, players of *Dota 2* are pretty serious about their gaming, and enough so that an open dataset of *Dota 2* match, player, and hero data is available online at [OpenDota](https://www.opendota.com). 
 
 
 
