@@ -6,7 +6,7 @@ show_sidebar: true
 ---
 
 
-Applied Math PhD seeking a job in technology. 
+Applied Math PhD seeking a job in technology and mathematical modeling. 
 
 This website is to host some fun projects with data!
 
