@@ -8,7 +8,8 @@ show_sidebar: true
 Applied Math PhD seeking a job in technology and mathematical modeling. 
 
 This website is to link to some fun apps with data!
-I've begun an app to see the different hero selections for the video game Dota 2, check it out [here](https://dota2dash.herokuapp.com)!
+
+I've begun an app to see the different hero selections for the video game Dota 2, check it out [here](https://dota2dash.herokuapp.com)! For this first app, I'm using a combination of [streamlit](https://streamlit.io) for displaying data, [bokeh](https://docs.bokeh.org/en/latest/) for adding interactivity, and [Heroku](https://www.heroku.com/) for web hosting. 
 
 
 # Academic Work Samples
