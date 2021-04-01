@@ -1,14 +1,14 @@
 ---
 title: RKeller World
 layout: page
-callouts: home_callouts
 show_sidebar: true
 ---
 
 
 Applied Math PhD seeking a job in technology and mathematical modeling. 
 
-This website is to host some fun projects with data!
+This website is to link to some fun apps with data!
+I've begun an app to see the different hero selections for the video game Dota 2, check it out [here](https://dota2dash.herokuapp.com)!
 
 
 # Academic Work Samples
