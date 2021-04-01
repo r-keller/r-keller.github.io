@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permaklink: about
+permaklink: /about/
 ---
 
 # Hello World!
