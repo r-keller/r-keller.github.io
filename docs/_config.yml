@@ -6,7 +6,7 @@ title: Rachael Keller World
 description: >- # this means to ignore newlines until "baseurl:"
   A website to host some awesome stuff I find and develop. Just you wait!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "r-keller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://r-keller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: mathrunnergirl
 #github_username:  r-keller
 #hide_share_buttons: true
